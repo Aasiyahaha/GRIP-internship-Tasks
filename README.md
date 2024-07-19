@@ -29,5 +29,5 @@ To conduct Exploratory Data Analysis (EDA) on the 'Superstore' dataset to pinpoi
 Analyzing the 'Superstore' dataset to uncover insights that could enhance business profitability and address problem areas.
 ### Results:
 
-<img width="429" alt="new" src="https://github.com/user-attachments/assets/33efdff9-c7f0-4e5b-b447-a07b1048e131">
+<img width="800" alt="new" src="https://github.com/user-attachments/assets/33efdff9-c7f0-4e5b-b447-a07b1048e131">
 
