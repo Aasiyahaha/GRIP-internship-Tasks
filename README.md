@@ -18,6 +18,8 @@ Optimal number of clusters: 3
 
 Visualization: 
 
+![task 2](https://github.com/user-attachments/assets/ea3c00d6-d927-4338-a2a4-ffc907b8f772)
+
 
 
 ## Task 3: Exploratory Data Analysis on 'Superstore' Dataset
